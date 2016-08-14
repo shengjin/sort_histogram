@@ -1,0 +1,12 @@
+40
+T
+1.0
+13.0
+RjReRj23Re23.dat
+
+
+READ(3,*)nbin
+READ(3,*)logbin
+READ(3,*)xmin
+READ(3,*)xmax
+READ(3,*)filename
